@@ -1,0 +1,14 @@
+[
+  {
+    "id":1,
+    "soal":"2 + 2 = ...",
+    "pilihan":["2","3","4","5"],
+    "jawaban":"4"
+  },
+  {
+    "id":2,
+    "soal":"Ibu kota Indonesia adalah...",
+    "pilihan":["Bandung","Jakarta","Surabaya","Medan"],
+    "jawaban":"Jakarta"
+  }
+]
