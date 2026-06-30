@@ -1,0 +1,14 @@
+{
+    "name": "Latihan Soal",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+    "postCreateCommand": "npm install -g live-server",
+    "forwardPorts": [5500],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.LiveServer",
+                "esbenp.prettier-vscode"
+            ]
+        }
+    }
+}
